@@ -116,9 +116,9 @@ El contraste entre ambas desviaciones es uno de los hallazgos centrales: con 255
 
 ## Equipo
 
-| GitHub | Correo |
-|---|---|
-| [@NathaliaValentinaCardozaAzuaje](https://github.com/NathaliaValentinaCardozaAzuaje) | nvcardozaa@eafit.edu.co |
-| [@AndresVelez31](https://github.com/AndresVelez31) | afveleza@eafit.edu.co |
-| [@Ssamperc](https://github.com/Ssamperc) | ssamperc@eafit.edu.co |
-| [@Salazar1022](https://github.com/Salazar1022) | ssalazarh3@eafit.edu.co |
+| Nombre | GitHub | Correo |
+|---|---|---|
+| Andrés Felipe Vélez Álvarez | [@AndresVelez31](https://github.com/AndresVelez31) | afveleza@eafit.edu.co |
+| Sebastián Salazar Henao | [@Salazar1022](https://github.com/Salazar1022) | ssalazarh3@eafit.edu.co |
+| Nathalia Valentina Cardoza Azuaje | [@NathaliaValentinaCardozaAzuaje](https://github.com/NathaliaValentinaCardozaAzuaje) | nvcardozaa@eafit.edu.co |
+| Samuel Samper Cardona | [@Ssamperc](https://github.com/Ssamperc) | ssamperc@eafit.edu.co |
